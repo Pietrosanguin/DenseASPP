@@ -47,7 +47,7 @@ Please cd to `./utils`, then run:
 
 And eval the results with the official evaluation code of Cityscapes, which can be found at [there](https://github.com/mcordts/cityscapesScripts)
 
-#Issues (corrections)
+# Issues (corrections)
 The model is using an old version of pytorch. The aim of this fork is to deploy code compatible with the new version and to train it obtaining the new parameters.
 
 ## References
